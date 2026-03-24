@@ -15,7 +15,7 @@ This project contains a Tableau dashboard created as an individual assignment.
 
 ## Dashboard Preview
 
-![Dashboard](dashboard.JPEG)
+![Dashboard](dashboard.png)
 
 ## Author
 Ritu Maharjan
